@@ -12,7 +12,7 @@ app.config.update({
     'APISPEC_SPEC_URL': '/swagger.json'  
 })
 
-api = Api(app)a
+api = Api(app)
 initialize_endpoints(api)
 
 docs = FlaskApiSpec(app)
