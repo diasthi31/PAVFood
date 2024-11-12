@@ -1,0 +1,16 @@
+Trabalho (Parte 1): Definição do contexto e dos requisitos.
+- Contexto do sistema: Sistema de gerenciamento de Delivery (PAVFood):
+- - Deverá ser possível gerenciar restauranes, categorias, pratos, pedidos, cliente e forma de pagamento, obedecendo os requisitos estabelecidos.
+- Definir os requisitos do sistema. Mínimo: 10 requisitos
+- - Req. 1: O sistema não deve permitir cadastrar cozinha duplicada;
+- - Req. 2: O sistema não deve permitir cadastrar mais de um restaurante com o mesmo CNPJ. O mesmo vale para cliente e CPF;
+- - Req. 3: O sistema não deve permitir cadastrar um mesmo produto dentro de um único restaurante;
+- - Req. 4: O sistema não deve permitir gerar um pedido sem os dados de restaurante, produto, cliente e forma de pagamento;
+- - Req. 5: O sistema não deve permitir excluir uma categoria que cozinha que contenha pelo menos 1 restaurante associado;
+- - Req. 6: O sistema, ao excluir um restaurante, deve excluir todos os produtos relacionados à ele;
+- - Req. 7: O sistema não deve permitir cadastrar um meio de pagamento já existente.
+- - Req. 8: O sistema deve calcular automaticamente o valor total do pedido, considerando o preço de cada produto e a quantidade solicitada;
+- - Req. 9: O sistema não deve permititir que um pedido tenha produtos de restaurantes diferentes;
+- - Req. 10: O sistema deve permitir que o cliente visualize o histórico dos pedidos realizados.
+- Pontos: 2,0 (P1)
+- Data: 25/10

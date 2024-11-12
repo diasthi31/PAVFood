@@ -1,0 +1,6 @@
+Trabalho (Parte 2): Dados e modelos
+- Mínimo: 5 tabelas (07/06)
+- Criar as classes de modelos associados às tabelas
+- - SQLAlchemy
+- Pontos: 3,0 (P1)
+- Data: 01/11
